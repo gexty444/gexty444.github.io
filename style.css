@@ -4,7 +4,7 @@
 }
 
 .anchor {
-	padding-top: 50px; 
+	padding-top: 40px; 
 }
 
 body {
@@ -44,7 +44,7 @@ p, a {
 }
 
 .navbar-default {
-    background: rgba(255, 255, 255, 0.85);
+    background: rgba(240, 240, 240, 0.9);
     border: none;
     color: #E8E8E8;
     display: inline-block;
@@ -98,7 +98,7 @@ p, a {
 	height: 200px;
 	width: 200px;
 	border-radius: 100px;
-	margin: 30px 0 1rem 0;
+	margin: 20px 0 1rem 0;
 }
 
 .lead {
@@ -123,9 +123,6 @@ p, a {
 .footer {
 	background: #262626
 }
-
-
-
 
 
 
@@ -167,6 +164,10 @@ hr {
 .icon-skill {
 	height: 100px;
 	width: 100px;
+}
+
+.icon-skill:hover {
+	opacity: 0.7;
 }
 
 .row-buffer {
